@@ -1,1 +1,31 @@
 theme: jekyll-theme-midnight
+name: AML556 開発研究所
+title: AML556 開発研究所
+description: 開発者が作成したファイルをいくつか保存します。
+repository: https://github.com/Anomaly556/langJP
+timezone: Japan
+url: https://anomaly556.github.io/langJP
+
+plugins:
+- jekyll-redirect-from
+- jekyll-avatar
+- jekyll-seo-tag
+- jekyll-sitemap
+- jekyll-feed
+- jemoji
+gems:
+- jekyll-redirect-from
+- jekyll-avatar
+- jekyll-seo-tag
+- jekyll-sitemap
+- jekyll-feed
+- jemoji
+whitelist:  
+- jekyll-redirect-from
+- jekyll-avatar
+- jekyll-seo-tag
+- jekyll-sitemap
+- jekyll-feed
+- jemoji
+
+show_dir_listing: true
