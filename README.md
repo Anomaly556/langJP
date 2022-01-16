@@ -1,8 +1,7 @@
----
-layout: forward
-target: https://anomaly556.github.io/langJP/home
-targetname: Status Checker
-targettitle: 現在のスタータスを取得中です…
-time: 4
-message: 
----
+### このホームページを見るにはサイトの状態確認をして下さい。
+
+このホームページの状態を取得ため、状態確認をします。
+
+下のページで確認をします。
+
+[確認](https://anomaly556.github.io/langJP/statuschecker)
